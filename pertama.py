@@ -1,0 +1,5 @@
+print ("Hallo gaiis")
+print ("Cek 1")
+print ("Cek 2")
+print (123)
+print ("Berapa kali " * 3)
