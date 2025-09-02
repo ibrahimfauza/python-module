@@ -5,7 +5,7 @@ numbers = ("satu", "dua", 3)
 # y = numbers[1]
 # z = numbers[2]
 
-x, *a = numbers
+x, * a = numbers
 
 print("")
 print(x)
