@@ -1,2 +1,2 @@
 # python-module
-there is a fundamental for python study
+There are important basics for learning Python from me, with material provided by Agung Setiawan from YouTube.
